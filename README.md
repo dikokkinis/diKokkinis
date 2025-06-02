@@ -19,10 +19,9 @@ I am a postgraduate from **National Technical University of Athens ([NTUA](https
 
 The focus of my thesis was on **Generative Artifical Intelligence**, **Large Language Models** and audio related **Image Generation**. 
 
-# Interests & Activities
+## Interests & Activities
 
 
-
-# Languages & Tools
+## Languages & Tools
 
 
