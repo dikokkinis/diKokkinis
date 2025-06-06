@@ -25,4 +25,12 @@ The focus of my thesis was on **Generative Artifical Intelligence**, **Large Lan
 
 ## Languages & Tools
 
+**Languages**
+
+![image](https://github.com/user-attachments/assets/37a6d1d8-6d2c-4b9f-be52-b96daedb44f4)
+
+
+**Tools**
+
+**Other**
 
