@@ -28,6 +28,7 @@ The focus of my thesis was on **Generative Artifical Intelligence**, **Large Lan
 **Languages**
 
 ![267_Python-512](https://github.com/user-attachments/assets/9f467a87-ea22-4c85-a40f-85bb0ad57273)
+![6132222](https://github.com/user-attachments/assets/a21a7652-15de-4bf8-ba71-111da6eedc7a)
 
 
 
